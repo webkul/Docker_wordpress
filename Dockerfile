@@ -96,9 +96,9 @@ COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 ##setup test.sh script
 
-COPY test.sh /etc/test.sh
+COPY password.sh /etc/password.sh
 
-RUN chmod a+x /etc/test.sh
+RUN chmod a+x /etc/password.sh
 
 ## setup mysql.sh script 
  
