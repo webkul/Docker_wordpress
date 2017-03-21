@@ -48,6 +48,6 @@ So, lets make all this working:
 
 So, after launching the container, hit the URL http://YOUR-SERVER-NAME:8080
 
-![Alt text](https://raw.githubusercontent.com/alankrit29/Docker_wordpress/master/Screenshot%20from%202016-12-29%2018%3A58%3A52.png)
+![Alt text](https://github.com/webkul/Docker_wordpress/blob/master/Screenshot%20from%202016-12-29%2018:58:52.png?raw=true)
 
 Now begin with the installation !!!
