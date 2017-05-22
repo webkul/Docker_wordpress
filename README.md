@@ -31,7 +31,7 @@ So, lets make all this working:
 
 > To remove image, run command "docker rmi image_name"
 
-> To launch container, run command "docker run -d -p 8080:80 -p 3306:3306 --name conatiner_name image_name:latest"
+> To launch container, run command "docker run -d -p 8080:80 -p 3306:3306 --name container_name image_name:latest"
   (No other services should be running on port 8080 and 3306)
 
 > To list running containers, run command "docker ps"
